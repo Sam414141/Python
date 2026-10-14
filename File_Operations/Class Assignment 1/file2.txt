@@ -1,0 +1,4 @@
+PS E:\Python_MCA\Python_IMCC\ File_Operations \Class Assignment 1> python Q3.py
+Enter a sentence :same same but different
+Longest word :different
+PS E:\Python_MCA\Python_IMCC\File_Operations\Class Assignment 1>
